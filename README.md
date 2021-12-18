@@ -1,6 +1,6 @@
 # ⛅️ weatherApp-iOS-practice
 
-![Kapture 2021-12-18 at 15 00 18](https://user-images.githubusercontent.com/28912774/146631143-7524bfb4-5f84-416c-a316-3d9d56ea21db.gif)
+<img width="350" alt="스크린샷" src="https://user-images.githubusercontent.com/28912774/146631143-7524bfb4-5f84-416c-a316-3d9d56ea21db.gif">
 
 ## 📌 기능 상세
 
